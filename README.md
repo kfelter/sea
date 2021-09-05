@@ -1,2 +1,1 @@
-# sea
-Simple Environment Abstraction
+# Simple Environemnt Abstraction
